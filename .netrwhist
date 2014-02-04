@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/jtomaw/Documents'
+let g:netrw_dirhist_2='/Users/jtomaw/Documents/eclipse-workspaces'
+let g:netrw_dirhist_3='/Users/jtomaw/Documents/eclipse-workspaces/default'
+let g:netrw_dirhist_4='/Users/jtomaw/Documents/eclipse-workspaces/default/.metadata'
+let g:netrw_dirhist_5='/Users/jtomaw/Documents/eclipse-workspaces/default/.metadata/.plugins'
+let g:netrw_dirhist_6='/Users/jtomaw/Documents/eclipse-workspaces/default/.metadata/.plugins/org.eclipse.core.resources'
+let g:netrw_dirhist_7='/Users/jtomaw/Documents/eclipse-workspaces/default/.metadata/.plugins/org.eclipse.core.resources/.history'
