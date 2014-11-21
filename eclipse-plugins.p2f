@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='28'>
+    <iu id='com.amazonaws.eclipse.dynamodb.feature.feature.group' name='Amazon DynamoDB Management' version='1.0.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.ec2.feature.group' name='Amazon EC2 Management' version='1.1.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.rds.feature.feature.group' name='Amazon RDS Management' version='1.0.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.datatools.enablement.simpledb.feature.feature.group' name='Amazon SimpleDB Management' version='1.0.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='net.mihai-nita.ansicon.feature.group' name='Ansi Console' version='1.3.0.201404020252'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.cloudformation.feature.feature.group' name='AWS CloudFormation Tools' version='1.0.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.elasticbeanstalk.feature.feature.group' name='AWS Elastic Beanstalk' version='1.0.0.v201410310124'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.sdk.feature.feature.group' name='AWS SDK for Java' version='2.0.0.v201411061511'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.simpleworkflow.feature.feature.group' name='AWS Simple Workflow Tools' version='1.0.0.v201202211329'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.core.feature.feature.group' name='AWS Toolkit for Eclipse Core' version='2.1.0.v201410310112'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse/.'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.cdt.feature.group' name='C/C++ Development Tools' version='8.3.0.201402142303'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.datatools.enablement.sdk.feature.feature.group' name='Data Tools Platform Enablement Extender SDK' version='1.11.2.v201309171554-7I9v7XFE9JgQP0oJDSE2RI-mNjpc'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='com.mountainminds.eclemma.feature.feature.group' name='EclEmma Java Code Coverage' version='2.3.2.201409141915'>
+      <repositories size='1'>
+        <repository location='http://update.eclemma.org/'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.java' name='Eclipse IDE for Java Developers' version='4.4.0.20140612-0500'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jdt.java8patch.feature.group' name='Eclipse JDT (Java Development Tools) Patch with Java 8 support (for Kepler SR2)' version='1.0.0.v20140317-1956'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/eclipse/updates/4.3-P-builds/'/>
+      </repositories>
+    </iu>
+    <iu id='pm.eclipse.editbox.feature.feature.group' name='EditBox' version='0.60.0.201405271213'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='com.eclipsesource.jshint.feature.feature.group' name='JSHint Eclipse Integration' version='0.9.10.20141011-1730'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='markdown.editor.feature.feature.group' name='Markdown Editor' version='1.1.0.201402240523'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.enide.editors.jade.feature.feature.group' name='Minimalist Jade Editor' version='0.17.0.201409260936'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.sdk.feature.group' name='Nodeclipse ChromeDevTools SDK' version='0.3.9.201409260936'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.debug.feature.group' name='Nodeclipse Chromium JavaScript Remote Debugger' version='0.3.9.201409260936'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.feature.group' name='Nodeclipse Core and Node.js' version='0.17.0.201409260936'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='1.0.0.20140303-0606'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='Nodeclipse Plugins List Feature' version='0.1.0.20130811-1427'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer  Feature' version='1.6.1'>
+      <repositories size='2'>
+        <repository location='http://basti1302.github.com/startexplorer/update/'/>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='tern-feature.feature.group' name='Tern feature' version='0.6.0.201410042051'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='tern-jsdt-feature.feature.group' name='Tern JSDT feature' version='0.6.0.201410042051'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='tern-server-nodejs-feature.feature.group' name='Tern server node.js feature' version='0.6.0.201410042051'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
